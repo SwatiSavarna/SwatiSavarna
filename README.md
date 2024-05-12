@@ -1,5 +1,5 @@
-<center>Hi👋,I am Swati Savarna<br>
-"A passionate Frontend Developer based in India"<br></center>
+                           Hi👋,I am Swati Savarna
+                  "A passionate Frontend Developer based in India"
 
 
 
