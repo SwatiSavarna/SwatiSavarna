@@ -1,16 +1,14 @@
-### Hi there 👋
+<center>Hi👋,I am Swati Savarna<br>
+"A passionate Frontend Developer based in India"<br></center>
 
-<!--
-**SwatiSavarna/SwatiSavarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN Web Development<br>
+- 🌱 I’m currently learning how to write clean code<br>
+- 👯 Know about my Experiences on <a href="https://swatisavarna.github.io/Swati-Savarna/">Myportfolio</a><br>
+- 💬 Ask me about React,UI Designing<br>
+- 📫 you can reach me at <a href="https://mail.google.com/mail/">swatisavarna@gmail.com</a><br>
+
+
+
+
